@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Dialog
+comment0.text=\r\n\ Dialog\ klasse\ probiert\ verschiedene\ eingaben\ um\ das\ Programm\ zu\ testen\r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

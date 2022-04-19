@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hilfsmethoden
+comment0.text=\r\n\ Diese\ Hilfsmethode\ wird\ aufgeruft\ f\u00FCr\ Exeption\ zu\ pruefen\ \r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=name
+comment1.target=void\ eingabeUeberpruefen(java.lang.String)
+comment1.text=\r\n\ diese\ methode\ prueft\ ob\ der\ name\ leer\ zeichen\ hat\ oder\ vorhanden\ ist\r\n\ @param\ name\r\n
+comment2.params=object
+comment2.target=void\ objectUeberpruefen(java.lang.Object)
+comment2.text=\r\n\ diese\ methode\ prueft\ ob\ der\ Object\ vorhanden\ \r\n\ @param\ object\r\n
+comment3.params=object\ object2\ object3
+comment3.target=void\ mehrereObjectUeberpruefen(java.lang.Object,\ java.lang.Object,\ java.lang.Object)
+comment3.text=\r\n\ diese\ methode\ prueft\ ob\ der\ Object\ vorhanden\ ist\ und\ gilt\ fuer\ drei\ objecte\r\n\ @param\ object\r\n\ @param\ object2\r\n\ @param\ object3\r\n
+comment4.params=nummer
+comment4.target=void\ nigativUeberpruefen(int)
+comment4.text=\r\n\ diese\ methode\ prueft\ ob\ die\ nummer\ kleiner\ gleich\ null\ ist\r\n\ @param\ nummer\r\n
+comment5.params=nummer
+comment5.target=void\ nigativUeberpruefenNull(int)
+comment5.text=\r\n\ diese\ methode\ prueft\ ob\ eine\ nummer\ kleiner\ als\ null\ ist\r\n\ @param\ nummer\r\n
+numComments=6

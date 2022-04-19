@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Uhrzeit
+comment0.text=\r\n\ Die\ Klasse\ gibt\ die\ Uhrzeit\ aus\ \r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (1)\r\n
+comment1.params=stunde\ minute
+comment1.target=Uhrzeit(int,\ int)
+comment1.text=\r\n\ Konstruktor\ die\ den\ forgenden\ parameter\ erhaltet\r\n\ @param\ stunde\r\n\ @param\ minute\r\n
+comment2.params=
+comment2.target=int\ getMinute()
+comment2.text=\r\n\r\n\ @return\ Minute\ wird\ gezeigt\r\n
+comment3.params=
+comment3.target=int\ getStunde()
+comment3.text=\r\n\r\n\ @return\ Stunde\ wird\ gezeigt\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\r\n\ @return\ Stunde\ und\ minute\ werden\ gezeigt\ z.B.(10\:45\ Uhr)\r\n
+numComments=5

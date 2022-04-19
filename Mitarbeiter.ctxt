@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mitarbeiter
+comment0.text=\r\n\ Klasse\ Mitarbeiter\ gibt\ die\ Mitarbeitern\ aus,\ die\ ein\ Raum\ reservierung\ und\ ist\ von\ klasse\ Peron\ vererben\r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (1)\r\n
+comment1.params=vorname\ nachname\ email
+comment1.target=Mitarbeiter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ die\ den\ forgenden\ parameter\ erhelt\r\n\ @param\ vorname\r\n\ @param\ nachname\r\n\ @param\ email\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEmail()
+comment2.text=\r\n\r\n\ @return\ E-mail\ wird\ gezeigt\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\r\n\ @return\ gibt\ Das\ ganze\ Informationen\ ueber\ der\ Mitarbeiter\ aus\ \r\n
+comment4.params=raum\ beginn\ ende\ bemerkung
+comment4.target=void\ reserviere(Raum,\ Uhrzeit,\ Uhrzeit,\ java.lang.String)
+comment4.text=\r\n\ die\ Methode\ reserviert\ das\ folgenden\ @param\ zum\ Raum\r\n\ @param\ raum\r\n\ @param\ beginn\r\n\ @param\ ende\r\n\ @param\ bemerkung\r\n
+numComments=5

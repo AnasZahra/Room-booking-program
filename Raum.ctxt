@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Raum
+comment0.text=\r\n\ Klasse\ Raum\ gibt\ alle\ Raeume\ aus,\ die\ von\ Miarbeitern\ reserviert\ werden\ \r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (1)\r\n
+comment1.params=geb\ etage\ raum
+comment1.target=Raum(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\r\n\ @return\ gibt\ aus\ Das\ ganze\ Informationen\ ueber\ die\ Raum\r\n
+comment3.params=reservierung
+comment3.target=void\ addReservierung(Reservierung)
+comment3.text=\r\n\ wird\ ein\ Reservirung\ eingelegt\ /\ geschpichert\r\n\ @param\ reservierung\r\n
+comment4.params=
+comment4.target=int\ getEtage()
+comment4.text=\r\n\r\n\ @return\ Etage\ nummer\ wird\ gegeben\r\n
+comment5.params=index
+comment5.target=Reservierung\ getReservierung(int)
+comment5.text=\r\n\r\n\ @param\ index\r\n\ @return\ wird\ die\ Reservirung\ an\ den\ index\ stele\ zuruckt\ gegeben\r\n
+comment6.params=
+comment6.target=int\ getRaum()
+comment6.text=\r\n\r\n\ @return\ raum\ nummer\ wird\ gezeigt\r\n
+comment7.params=
+comment7.target=int\ getGeb()
+comment7.text=\r\n\r\n\ @return\ Gebeude\ nummer\ wird\ gezeigt\r\n
+numComments=8

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Reservierung
+comment0.text=\r\n\ Klasse\ Reservierung\ gibt\ alle\ Reservierung\ Daten\ und\ organisiert\ das\ beginn\ und\ ende\ eine\ Meeting\r\n\r\n\ @author\ (Jandost\ &\ Anas)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=beginn\ ende
+comment1.target=Reservierung(Uhrzeit,\ Uhrzeit)
+comment2.params=bemerkung
+comment2.target=void\ setBemerkung(java.lang.String)
+comment2.text=\r\n\ \ wird\ ein\ bemerkung\ gezeigt\r\n\ @param\ bemerkung\r\n
+comment3.params=mitarbeiter
+comment3.target=void\ setMitarbeiter(Mitarbeiter)
+comment3.text=\r\n\ \ wird\ ein\ Mitarbeter\ gezeigt\r\n\ @param\ mitarbeiter\r\n
+comment4.params=raum
+comment4.target=void\ setRaum(Raum)
+comment4.text=\r\n\ wird\ ein\ Raum\ gelegt\r\n\ @param\ raum\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\r\n\ @return\ gibt\ aus\ Das\ ganze\ Informationen\ ueber\ die\ Reservierung\ als\ eine\ Zeichenkette\r\n
+numComments=6
